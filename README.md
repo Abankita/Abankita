@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm an enthusiastic engineering student with a dee
 
 ## 🏆 **Achievements**
 - **International Astronomy and Astrophysics Competition (IAAC)**: Ranked in the **top 10% worldwide** and received the **Silver Honor**.
-- **Citizen Scientist at NASA IASC**: Actively contributing to **NASA's International Astronomical Search Collaboration (IASC)** by helping identify and analyze asteroids as part of a global effort.
+- **Citizen Scientist at NASA IASC**: Actively contributed to **NASA's International Astronomical Search Collaboration (IASC)** by helping identify and analyze asteroids as part of a global effort.
 
 
 ## 🌐 Socials:
