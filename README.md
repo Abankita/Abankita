@@ -40,7 +40,8 @@ Welcome to my GitHub profile! I'm an enthusiastic engineering student with a dee
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abankita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 **Let's Connect**
-Feel free to explore my repositories and projects. I'm always open to collaboration and discussing exciting ideas. Reach out if you want to chat about design, development, or citizen science!
+Feel free to explore my repositories and projects. I'm always open to collaboration and discussing exciting ideas. Reach out if you want to chat about design, development, or citizen science! 
+
 ---
 
 
