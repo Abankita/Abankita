@@ -1,3 +1,36 @@
+# 👋 Hello, I'm Abankita Behera! 
+
+### 🌟 **A Passionate Developer & Contributor on the Path to Excellence** 🌟
+
+Welcome to my GitHub profile! I'm an enthusiastic engineering student with a deep interest in **Computer Science**, constantly learning and growing with every project. Here's a bit more about me:
+
+## 🎯 **Current Focus**
+- **B.Tech in Computer Science Engineering (CSE)**
+- Actively contributing to open-source projects and enhancing my design and development skills.
+
+## 🚀 **Open Source Journey**
+- Selected as a **contributor for GSSoC Extended 2024**, actively contributing to open-source projects.
+- 
+## 💻 **Projects & Contributions**
+- Contributing to repositories requiring modern workflows for frontend development.
+- Working on personal projects and collaborating with teams to enhance my coding and design skills.
+
+## 🌱 **What I'm Learning**
+- **Figma**: Improving my design skills for UI/UX projects.
+- **Web Development**: Building multi-page websites using HTML, CSS, and JavaScript.
+
+## 🛠️ **Tech Stack**
+- **Languages:** JavaScript, HTML, CSS
+- **Design:** Figma
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+## 🏆 **Achievements**
+- **International Astronomy and Astrophysics Competition (IAAC)**: Ranked in the **top 10% worldwide** and received the **Silver Honor**.
+- **Citizen Scientist at NASA IASC**: Actively contributing to **NASA's International Astronomical Search Collaboration (IASC)** by helping identify and analyze asteroids as part of a global effort.
+
+## 🌐 **Let's Connect**
+Feel free to explore my repositories and projects. I'm always open to collaboration and discussing exciting ideas. Reach out if you want to chat about design, development, or citizen science!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abankita_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AstroAB_25) 
@@ -10,6 +43,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abankita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abankita&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
