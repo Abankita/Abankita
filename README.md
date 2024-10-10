@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm an enthusiastic engineering student with a dee
 - **B.Tech in Computer Science Engineering (CSE)**
 - Actively contributing to open-source projects and enhancing my design and development skills.
 
-## 🚀 **Open Source Journey**
+## 🚀 **GSSoC'24 Extended**
 - Selected as a **contributor for GSSoC Extended 2024**, actively contributing to open-source projects.
 
-## 💻 **Hacktoberfest 2024**
+## 👻 **Hacktoberfest 2024**
 [![An image of @abankita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abankita)](https://holopin.io/@abankita)
 
 ## 💻 **Projects & Contributions**
