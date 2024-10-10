@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm an enthusiastic engineering student with a deep interest in **Computer Science**, constantly learning and growing with every project. Here's a bit more about me:
 
 ## 🎯 **Current Focus**
-- **B.Tech in Computer Science Engineering (CSE)**
+- **B.Tech in Computer Science and Engineering (CSE)**
 - Actively contributing to open-source projects and enhancing my design and development skills.
 
 ## 🚀 **GSSoC'24 Extended**
