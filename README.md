@@ -11,6 +11,9 @@ Welcome to my GitHub profile! I'm an enthusiastic engineering student with a dee
 ## 🚀 **Open Source Journey**
 - Selected as a **contributor for GSSoC Extended 2024**, actively contributing to open-source projects.
 
+## 💻 **Hacktoberfest 2024**
+[![An image of @abankita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abankita)](https://holopin.io/@abankita)
+
 ## 💻 **Projects & Contributions**
 - Contributing to repositories requiring modern workflows for frontend development.
 - Working on personal projects and collaborating with teams to enhance my coding and design skills.
