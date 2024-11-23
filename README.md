@@ -36,7 +36,7 @@
 ## 👻 **Hacktoberfest 2024**
 [![An image of @abankita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abankita)](https://holopin.io/@abankita)
 
-## 💻 **Projects & Contributions**
+
 
 
 ## 🏆 **Achievements**
@@ -47,7 +47,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abankita_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abankita-behera-210836227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AstroAB_25) 
 
-# 💻 Tech Stack:
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abankita&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
