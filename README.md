@@ -85,9 +85,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abankita&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abankita&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abankita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/Abankita">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abankita&theme=github_dark" alt="Abankita Behera github stats" />
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abankita&theme=github_dark" alt="My Top Languages" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abankita&theme=github_dark" alt="Stats" class="center" />
+<br>
 
 
 
