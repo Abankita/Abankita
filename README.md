@@ -86,12 +86,12 @@
 
 # 📊 GitHub Stats:
 <a href="https://github.com/Abankita">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abankita&theme=github_dark" alt="Abankita Behera github stats" />
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abankita&theme=github_dark" alt="Abankita Behera github stats" /><\br>
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abankita&theme=github_dark" alt="My Top Languages" />
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abankita&theme=github_dark" alt="Stats" class="center" />
 </a>
 
-<br/>
+<\br>
 <p align="center">
   <b>Thank you for visiting my profile! Feel free to explore my repositories. I would love to collaborate. 😊</b>
 </p>
