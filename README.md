@@ -1,12 +1,27 @@
-# 👋 Hello, I'm Abankita Behera! 
 
-### 🌟 **A Passionate Developer & Contributor on the Path to Excellence** 🌟
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abankita &label=Profile%20views&color=0e75b6&style=flat" alt="Abankita" /> </p>
 
-Welcome to my GitHub profile! I'm an enthusiastic engineering student with a deep interest in **Computer Science**, constantly learning and growing with every project. Here's a bit more about me:
 
-## 🎯 **Current Focus**
-- B.Tech in Computer Science and Engineering (CSE)
-- Actively contributing to open-source projects and enhancing my design and development skills.
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Abankita Behera</h1>
+<h3 align="center">A Passionate Web developer | Aspiring Software Developer</h3>
+
+<br/>
+
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
+
+- 🔭 I’m currently working as *Open Source Contributor*
+
+- 📚 I'm pursuing B.tech in Computer Science and Engineering.
+
+- 🌱 I’m currently learning **Full Stack Development | MERN**
+
+- 💬 Ask me about *Web development, DSA*
+
+- 🌎 I know **English, Hindi, Odia and a lil bit of Japanese.**
+- ⚡ About Me: I'm a *Proactive learner*
+- 📍 From **India**
 
 ## 🚀 **GSSoC'24 Extended**
 
