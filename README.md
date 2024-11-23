@@ -84,7 +84,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abankita_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abankita-behera-210836227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItsAbankita) 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <a href="https://github.com/Abankita">
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abankita&theme=github_dark" alt="Abankita Behera github stats" /></br>
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abankita&theme=github_dark" alt="My Top Languages" />
