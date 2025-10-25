@@ -70,18 +70,18 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </a></div>
 
-## 👻 **Hacktoberfest 2024**
+## **Hacktoberfest 2024**
 [![An image of @abankita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abankita)](https://holopin.io/@abankita)
 
 
 
 
-## 🏆 **Achievements**
+## **Achievements**
 - **International Astronomy and Astrophysics Competition (IAAC)**: Ranked in the **top 10% worldwide** and received the **Silver Honor**.
 - **Citizen Scientist at NASA IASC**: Actively contributed to **NASA's International Astronomical Search Collaboration (IASC)** by helping identify and analyze asteroids as part of a global effort.
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abankita_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abankita-behera-210836227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItsAbankita) 
 
 
