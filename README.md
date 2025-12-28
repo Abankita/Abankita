@@ -10,7 +10,6 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 
 
-- 🔭 I’m currently working as *Open Source Contributor*
 
 - 📚 I'm pursuing B.tech in Computer Science and Engineering.
 
