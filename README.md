@@ -18,7 +18,7 @@ Building distributed systems, ML pipelines, and real-world interfaces.
 ### Stack
 
 ```text
-Languages   Python  JavaScript/TypeScript  Java  C++  HTML/CSS
+Languages   Python  JavaScript  HTML/CSS
 Backend     Node.js  PostgreSQL  MongoDB  WebSockets  REST
 Frontend    React.js  TailwindCSS
 Tools       Git  Jupyter  VS Code
