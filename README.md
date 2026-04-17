@@ -1,100 +1,47 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abankita&label=Profile%20views&color=0e75b6&style=flat" alt="Abankita" /> </p>
+<div align="center">
+
+# Abankita Behera
+
+**B.Tech CSE · BPUT Rourkela · 2023–27**
+
+Building distributed systems, ML pipelines, and real-world interfaces.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abankita-behera-210836227)
+[![X](https://img.shields.io/badge/X-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://x.com/ItsAbankita)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:abankitabehera05@gmail.com)
+
+</div>
+
+---
 
 
+### Stack
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Abankita Behera</h1>
-<h3 align="center">A Passionate Web developer | Aspiring Software Developer</h3>
+```text
+Languages   Python  JavaScript/TypeScript  Java  C++  HTML/CSS
+Backend     Node.js  PostgreSQL  MongoDB  WebSockets  REST
+Frontend    React.js  TailwindCSS
+Tools       Git  Jupyter  VS Code
+```
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
+### Highlights
 
+```text
+↳ Amazon ML Summer School 2025
+↳ Google Big Code Contest Round 2 (2026) · Flipkart Grid Round 2 (2025)
+↳ IAAC — Top 10% worldwide · Silver Honour
+↳ NASA IASC Citizen Scientist (2022) — asteroid identification via Astrometrica
+↳ Hacktoberfest · GSSoC · KWoC · SWOC contributor (2024–present)
+```
 
+---
 
-- 📚 I'm pursuing B.tech in Computer Science and Engineering.
+<div align="center">
 
-- 🌱 I’m currently learning **Full Stack Development | MERN**
+![Abankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abankita&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abankita&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
 
-- 📫 Reach Me At: [abankitabehera05@gmail.com](mailto:abankitabehera05@gmail.com) <br>
-
-- 💬 Ask me about *Web development, DSA*
-
-- 🌎 I know **English, Hindi, Odia and a lil bit of Japanese.**
-- ⚡ About Me: I'm a *Proactive learner*
-- 📍 From **India**
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<p align="center">
-
-<details>
-<summary>Languages & Tools</summary> <br>
-
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-</details>
-
-<details>
-<summary>Frameworks I've Worked on:</summary> <br>
-
-   ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   </details>
-   
-   
- <details>
-<summary>Application and Tools:</summary> <br>
-
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    </br>
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) 
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)   
-  </details>
-</p>
-  
-## 🚀 **GSSoC'24 Extended**
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Abankita">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</a></div>
-
-## **Hacktoberfest 2024**
-[![An image of @abankita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abankita)](https://holopin.io/@abankita)
-
-
-
-
-## **Achievements**
-- **International Astronomy and Astrophysics Competition (IAAC)**: Ranked in the **top 10% worldwide** and received the **Silver Honor**.
-- **Citizen Scientist at NASA IASC**: Actively contributed to **NASA's International Astronomical Search Collaboration (IASC)** by helping identify and analyze asteroids as part of a global effort.
-
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abankita_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abankita-behera-210836227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItsAbankita) 
-
-
-## 📊 GitHub Stats:
-<a href="https://github.com/Abankita">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abankita&theme=github_dark" alt="Abankita Behera github stats" /></br>
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abankita&theme=github_dark" alt="My Top Languages" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abankita&theme=github_dark" alt="Stats" class="center" />
-</a>
-
-</br>
-<p align="center">
-  <b>Thank you for visiting my profile! Feel free to explore my repositories. I would love to collaborate. 😊</b>
-</p>
-
-
-
+</div>
