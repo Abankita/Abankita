@@ -6,7 +6,7 @@
 
 Building distributed systems, ML pipelines, and real-world interfaces.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abankita-behera-210836227)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/abankita-behera-210836227)
 [![X](https://img.shields.io/badge/X-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://x.com/ItsAbankita)
 [![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:abankitabehera05@gmail.com)
 
