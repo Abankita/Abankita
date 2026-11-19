@@ -9,7 +9,7 @@
 [![X](https://img.shields.io/badge/X-C9748F?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ItsAbankita)
 [![Gmail](https://img.shields.io/badge/Gmail-C9748F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abankitabehera05@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fde4ec,50:e8789f,100:fde4ec&height=3" width="80%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
