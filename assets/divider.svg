@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 30" width="1000" height="30" role="presentation">
+  <line x1="120" y1="15" x2="465" y2="15" stroke="#eaa6bf" stroke-width="1"/>
+  <line x1="535" y1="15" x2="880" y2="15" stroke="#eaa6bf" stroke-width="1"/>
+  <circle cx="480" cy="15" r="2" fill="#f7c1d3"/>
+  <circle cx="520" cy="15" r="2" fill="#f7c1d3"/>
+  <circle cx="110" cy="15" r="2.5" fill="#e8789f"/>
+  <circle cx="890" cy="15" r="2.5" fill="#e8789f"/>
+  <path d="M500 4 L503.5 11.5 L511 15 L503.5 18.5 L500 26 L496.5 18.5 L489 15 L496.5 11.5 Z" fill="#e8789f">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>
