@@ -20,13 +20,13 @@
 
 ### 🔭 About Me
 
-- 🌌 **Computational Astronomy:** Interested in using computation, algorithms, and machine learning to investigate astronomical data and scientific phenomena.
-- 🔬 **Telescope Imaging:** Fascinated by astronomical image processing, telescope observations, image enhancement, source detection, and extracting information from celestial images.
-- 🪐 **Observational Astronomy & Astrophysics:** Curious about exoplanets, variable stars, stellar phenomena, transient events, and unexplored astronomical objects.
-- 🛰️ **Citizen Science:** Contributing to astronomical search campaigns through NASA's International Astronomical Search Collaboration (IASC).
-- 🧠 **Artificial Intelligence:** Exploring deep learning, computer vision, multimodal learning, Generative AI, and Agentic AI.
-- 🤖 **Intelligent Systems:** Interested in LLM-powered applications, multi-agent architectures, and AI-assisted scientific research.
-- 💻 **Software Engineering:** Interested in backend engineering, distributed systems, scalable applications, and data-intensive computing.
+- **Computational Astronomy:** Interested in using computation, algorithms, and machine learning to investigate astronomical data and scientific phenomena.
+- **Telescope Imaging:** Fascinated by astronomical image processing, telescope observations, image enhancement, source detection, and extracting information from celestial images.
+- **Observational Astronomy & Astrophysics:** Curious about exoplanets, variable stars, stellar phenomena, transient events, and unexplored astronomical objects.
+- **Citizen Science:** Contributing to astronomical search campaigns through NASA's International Astronomical Search Collaboration (IASC).
+- **Artificial Intelligence:** Exploring deep learning, computer vision, multimodal learning, Generative AI, and Agentic AI.
+- **Intelligent Systems:** Interested in LLM-powered applications, multi-agent architectures, and AI-assisted scientific research.
+- **Software Engineering:** Interested in backend engineering, distributed systems, scalable applications, and data-intensive computing.
 
 ### 🌠 Areas of Interest
 
@@ -42,7 +42,7 @@
 
 - **NASA IASC Citizen Scientist (2022–Present):** Contributed to astronomical search campaigns using Astrometrica; credited with one preliminary asteroid discovery.
 - **International Astronomy and Astrophysics Competition 2024:** Silver Honour, Top 10% worldwide.
-- - 🚀 **Space Generation Advisory Council (SGAC):** Selected international delegate for Space Generation Korea 2026 and the 12th Asia-Pacific Space Generation Workshop 2026. SGAC holds permanent observer status at the UN Committee on the Peaceful Uses of Outer Space (UN COPUOS).
+- **Space Generation Advisory Council (SGAC):** Selected international delegate for Space Generation Korea 2026 and the 12th Asia-Pacific Space Generation Workshop 2026. SGAC holds permanent observer status at the UN Committee on the Peaceful Uses of Outer Space (UN COPUOS).
 - **IIT (BHU) AI/ML Hackathon:** Secured Rank 4.
 - **Amazon ML Summer School 2025:** Selected Scholar.
 - **Climate Science Olympiad 2024:** Global Semifinalist among 55,000+ participants. The Olympiad is supported by the UN Framework Convention on Climate Change (UNFCCC) and connected to the UN Climate Summit.
