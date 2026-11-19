@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/header.svg" width="100%" alt="Abankita Behera" />
-<img src="assets/divider.svg" width="100%" alt="" />
+
 
 <br/>
 
@@ -30,7 +30,7 @@
 | ⚙️ **Software Engineering** | Backend engineering, distributed systems, scalable applications, data-intensive computing |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fde4ec,50:e8789f,100:fde4ec&height=3" width="80%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### ✧･ﾟ: ✦ Areas of Interest ✦ :･ﾟ✧
 
@@ -45,7 +45,7 @@
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fde4ec,50:e8789f,100:fde4ec&height=3" width="80%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### ✧･ﾟ: ✦ Achievements & Recognition ✦ :･ﾟ✧
 
@@ -63,7 +63,7 @@
 | 🌱 **Open Source Contributions** | Hacktoberfest, GirlScript Summer of Code (GSSoC), KWoC, and SWOC |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fde4ec,50:e8789f,100:fde4ec&height=3" width="80%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### ✧･ﾟ: ✦ Research Experience ✦ :･ﾟ✧
 
@@ -81,7 +81,7 @@
 |:---:|:---:|
 | **96.9%** accuracy | **94.5%** accuracy |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fde4ec,50:e8789f,100:fde4ec&height=3" width="80%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### ✧･ﾟ: ✦ Beyond the Code ✦ :･ﾟ✧
 
@@ -93,12 +93,12 @@
 - Contributing to open-source communities and learning through technical competitions
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fde4ec,50:e8789f,100:fde4ec&height=3" width="80%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fde4ec,50:e8789f,100:fde4ec&height=3" width="80%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### ✧･ﾟ: ✦ GitHub Stats ✦ :･ﾟ✧
 
@@ -111,13 +111,10 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abankita&bg_color=fff5f8&color=9d4a68&line=e8789f&point=5b2a3c&area=true&area_color=f7c1d3&hide_border=true" width="95%" />
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=9D4A68&center=true&vCenter=true&width=720&lines=Exploring+the+universe+through+computation%2C+data%2C+and+intelligent+systems." alt="Footer typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:eaa6bf,50:f7c1d3,100:fde4ec&height=130&section=footer&animation=twinkling" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
