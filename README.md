@@ -4,7 +4,9 @@
 
 **B.Tech CSE · BPUT Rourkela · 2023–27**
 
-Building distributed systems, ML pipelines, and real-world interfaces.
+*Exploring the universe through computation, data, and intelligent systems.*
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/abankita-behera-210836227)
 [![X](https://img.shields.io/badge/X-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://x.com/ItsAbankita)
@@ -16,17 +18,55 @@ Building distributed systems, ML pipelines, and real-world interfaces.
 
 
 
-### Highlights
+### 🔭 About Me
 
-```text
-↳ Selected as one of the 30 International Delegates in SG[Korea], SGAC- a space science networking event supported by the United Nations Office for Outer Space Affairs (UNOOSA)
-↳ Amazon ML Summer School Scholar 2025
-↳ Summer Intern at NIT Delhi - 2026
-↳ IAAC — Top 10% worldwide · Silver Honour - 2X Finalist
-↳ NASA IASC Citizen Scientist (2022) — asteroid identification via Astrometrica
-↳ Google Big Code Contest Round 2 (2026) · Flipkart Grid Round 2 (2025)
-↳ Hacktoberfest · GSSoC · KWoC · SWOC contributor (2024–present)
-```
+- 🌌 **Computational Astronomy:** Interested in using computation, algorithms, and machine learning to investigate astronomical data and scientific phenomena.
+- 🔬 **Telescope Imaging:** Fascinated by astronomical image processing, telescope observations, image enhancement, source detection, and extracting information from celestial images.
+- 🪐 **Observational Astronomy & Astrophysics:** Curious about exoplanets, variable stars, stellar phenomena, transient events, and unexplored astronomical objects.
+- 🛰️ **Citizen Science:** Contributing to astronomical search campaigns through NASA's International Astronomical Search Collaboration (IASC).
+- 🧠 **Artificial Intelligence:** Exploring deep learning, computer vision, multimodal learning, Generative AI, and Agentic AI.
+- 🤖 **Intelligent Systems:** Interested in LLM-powered applications, multi-agent architectures, and AI-assisted scientific research.
+- 💻 **Software Engineering:** Interested in backend engineering, distributed systems, scalable applications, and data-intensive computing.
+
+### 🌠 Areas of Interest
+
+- **Computational Astronomy:** Astronomical data analysis, time-series analysis, scientific computing, computational astrophysics.
+- **Astronomical Imaging:** Telescope image processing, image enhancement, astronomical source detection, image analysis.
+- **Astrophysics:** Observational astronomy, stellar variability, exoplanets, transient phenomena.
+- **AI for Astronomy:** Deep learning, anomaly detection, computer vision, automated candidate classification.
+- **Artificial Intelligence:** Generative AI, LLMs, Agentic AI, multi-agent systems.
+- **Software Engineering:** Backend development, distributed systems, database systems, API design.
+- **Earth Observation:** Satellite imagery and geospatial AI.
+
+### 🏅 Achievements & Recognition
+
+- **NASA IASC Citizen Scientist (2022–Present):** Contributed to astronomical search campaigns using Astrometrica; credited with one preliminary asteroid discovery.
+- **International Astronomy and Astrophysics Competition 2024:** Silver Honour, Top 10% worldwide.
+- - 🚀 **Space Generation Advisory Council (SGAC):** Selected international delegate for Space Generation Korea 2026 and the 12th Asia-Pacific Space Generation Workshop 2026. SGAC holds permanent observer status at the UN Committee on the Peaceful Uses of Outer Space (UN COPUOS).
+- **IIT (BHU) AI/ML Hackathon:** Secured Rank 4.
+- **Amazon ML Summer School 2025:** Selected Scholar.
+- **Climate Science Olympiad 2024:** Global Semifinalist among 55,000+ participants. The Olympiad is supported by the UN Framework Convention on Climate Change (UNFCCC) and connected to the UN Climate Summit.
+- **Competitive Programming & Hackathons:** Advanced to Round 2 in Google Big Code 2026 and the Economic Times GenAI Hackathon 2026; participated in Flipkart GRiD and Meesho Scripted by Her.
+- **Open Source Contributions:** Hacktoberfest, GirlScript Summer of Code (GSSoC), KWoC, and SWOC.
+
+### 🔬 Research Experience
+
+**AI/ML Research Intern | National Institute of Technology Delhi**
+
+- Worked on multimodal deep learning for liver fibrosis and cirrhosis classification using ultrasound and MRI.
+- Explored attention-enhanced U-Net segmentation and ResNet-50, ConvNeXt, and Swin Transformer architectures.
+- Investigated uncertainty-aware prediction, deep learning ensembles, and multimodal feature fusion.
+- Achieved **96.9% accuracy** in ultrasound fibrosis staging and **94.5% accuracy** in MRI cirrhosis classification.
+
+
+### 🌱 Beyond the Code
+
+- Exploring how computational methods can help answer questions about the universe.
+- Following developments in astronomy, astrophysics, space missions, and scientific instrumentation.
+- Interested in interdisciplinary research at the intersection of computer science, astronomy, and artificial intelligence.
+- Contributing to open-source communities and learning through technical competitions.
+
+
 
 ---
 <div align="center">
