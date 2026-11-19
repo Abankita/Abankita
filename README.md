@@ -77,7 +77,7 @@
 
 <div align="center">
 
-| 🩻 Ultrasound Fibrosis Staging | 🧲 MRI Cirrhosis Classification |
+| Ultrasound Fibrosis Staging | MRI Cirrhosis Classification |
 |:---:|:---:|
 | **96.9%** accuracy | **94.5%** accuracy |
 
