@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde4ec,50:f7c1d3,100:eaa6bf&height=250&section=header&text=Abankita%20Behera&fontSize=54&fontColor=5b2a3c&animation=twinkling&fontAlignY=38&desc=%E2%9C%A7%20Computation%20%C2%B7%20Data%20%C2%B7%20The%20Universe%20%E2%9C%A7&descAlignY=60&descSize=18&descColor=7a3b52" width="100%" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=9D4A68&center=true&vCenter=true&repeat=true&width=700&lines=B.Tech+CSE+%C2%B7+BPUT+Rourkela+%C2%B7+2023-27;Multimodal+Deep+Learning+%7C+Computer+Vision;Multi-Agent+AI+%7C+Agentic+Systems;Earth+Observation+%7C+Geospatial+AI;NASA+IASC+Citizen+Scientist+%F0%9F%94%AD;SGAC+Delegate+%7C+UN+COPUOS+Observer+Network" alt="Typing SVG" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Abankita Behera" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <br/>
 
