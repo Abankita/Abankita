@@ -40,7 +40,7 @@
 <summary><b>🌠 Tap to expand or collapse</b></summary>
 <br/>
 
-`Astronomical Data Analysis` `Time-Series Analysis` `Scientific Computing` `Computational Astrophysics` `Telescope Image Processing` `Image Enhancement` `Astronomical Source Detection` `Observational Astronomy` `Stellar Variability` `Exoplanets` `Transient Phenomena` `Deep Learning` `Anomaly Detection` `Computer Vision` `Automated Candidate Classification` `Generative AI` `LLMs` `Agentic AI` `Multi-Agent Systems` `Backend Development` `Distributed Systems` `Database Systems` `API Design` `Earth Observation` `Satellite Imagery` `Geospatial AI`
+`Astronomical Data Analysis` `Computational Astrophysics` `Telescope Image Processing` `Observational Astronomy` `Deep Learning` `Computer Vision` `Generative AI` `LLMs` `Agentic AI` `Multi-Agent Systems` `Backend Development` `Distributed Systems` `Database Systems` `API Design` `Earth Observation` `Satellite Imagery` `Geospatial AI`
 
 </details>
 
